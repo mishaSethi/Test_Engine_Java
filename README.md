@@ -6,8 +6,8 @@ Designed for learning and assessment purposes, this project supports multiple-ch
 ---
 
  Features
-- User-friendly interface** for attempting tests
-- Multiple-choice questions (MCQs)** support
-- Instant result calculation** after submission
-- Java + MySQL backend** for data storage
-- Easily customizable** question sets
+- User-friendly interface for attempting tests
+- Multiple-choice questions (MCQs) support
+- Instant result calculation after submission
+- Java + MySQL backend for data storage
+- Easily customizable question sets
